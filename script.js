@@ -1,4 +1,4 @@
- <script>
+
         // Initialize AOS (Animate on Scroll)
         AOS.init({
             duration: 800,
